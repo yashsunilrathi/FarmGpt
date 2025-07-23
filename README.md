@@ -2,6 +2,8 @@
 
 **Farm GPT** is a smart and responsive web platform designed to assist farmers, agricultural enthusiasts, and students in making data-driven decisions about crop selection, fertilizer usage, seasonal planning, and more — powered by a clean UI and AI-integrated future roadmap.
 
+[Visit My Portfolio](https://farm-gpt.netlify.app/)
+
 ---
 
 ##  Features
