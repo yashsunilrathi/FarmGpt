@@ -20,7 +20,7 @@
 
 ##  Project Structure
 
-<pre> 📁 <b>Farm-GPT/</b> ├── <b>index.html</b> ├── <b>log_page.html</b> ├── <b>register.html</b> ├── 📁 <b>season_pages/</b> │ ├── summer.html │ ├── rainy.html │ └── winter.html ├── 📁 <b>fertilizer_pages/</b> │ ├── main.html │ ├── f1.html │ ├── f2.html │ └── ... ├── 📁 <b>crop_pages/</b> │ ├── crop1.html │ └── ... ├── 📁 <b>assets/</b> │ ├── 📁 images/ │ └── 📁 css/ ├── <b>navbar.html</b> └── <b>README.md</b> </pre>
+<pre lang="markdown"><code>## 📁 Project Structure ``` Farm-GPT/ ├── index.html ├── log_page.html ├── register.html ├── season_pages/ │ ├── summer.html │ ├── rainy.html │ └── winter.html ├── fertilizer_pages/ │ ├── main.html │ ├── f1.html │ ├── f2.html │ └── ... ├── crop_pages/ │ ├── crop1.html │ └── ... ├── assets/ │ ├── images/ │ └── css/ ├── navbar.html └── README.md ``` </code></pre>
 
 
 ##  Tech Stack
